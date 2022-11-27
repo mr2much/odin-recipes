@@ -1,0 +1,9 @@
+body {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 1.2em;
+}
+
+.recipe {
+  background-color: red;
+  width: 400px;
+}
